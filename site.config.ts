@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'e5b0f6dc859e429aa440edd1899aa52f?v=f2d5a19cfa7d4b96bb63a50a88ee74b1&pvs=4',
+  rootNotionPageId: '4c753c7cc41f475786699d42f030d1cf?pvs=4',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: ' Study harder $ Earn more',
-  domain: 'https://jy-wang.notion.site/e5b0f6dc859e429aa440edd1899aa52f?v=f2d5a19cfa7d4b96bb63a50a88ee74b1&pvs=4',
+  domain: 'https://jy-wang.notion.site/Study-Harder-Earn-More-4c753c7cc41f475786699d42f030d1cf?pvs=4',
   author: 'J W',
 
   // open graph metadata (optional)
