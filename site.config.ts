@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: ' Study harder $ Earn more',
-  domain: 'jingyao-w',
+  domain: 'https://jy-wang.notion.site/e5b0f6dc859e429aa440edd1899aa52f?v=f2d5a19cfa7d4b96bb63a50a88ee74b1&pvs=4',
   author: 'J W',
 
   // open graph metadata (optional)
